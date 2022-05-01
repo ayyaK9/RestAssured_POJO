@@ -1,0 +1,9 @@
+Serialization is the process of converting the objects in to a stream of data like JSon or xml which will be used in body of REST API
+
+Deserialization is platform independant
+
+POJO - Plain OLD JAVA OBJECT - used for creating JSON or XML to pass as payload
+
+two ways : place it in file or excel o0r create a POJO
+
+JAckjon data bind is used to serialize and de serialize
